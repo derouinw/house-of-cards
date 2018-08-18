@@ -6,6 +6,8 @@
 
 Display of Radiohead's [House of Cards music video](https://www.youtube.com/watch?v=8nTFjVm9sTQ) point cloud data. Look at Thom Yorke's face in AR!
 
+[Demo video](https://twitter.com/GregFeingold/status/1030566383950553088)
+
 ## Setup
 
 ### Downloading materials
@@ -88,3 +90,5 @@ If there are any issues with the setup instructions, please also let me know! I 
 This project under GNU GPLv3 (see LICENSE). Other projects referenced are under their own licenses.
 
 By Bill Derouin ([@BillDerouin](https://twitter.com/BillDerouin)) and Greg Feingold ([@GregFeingold](https://twitter.com/GregFeingold)).
+
+Disclaimer: we are not in any way affiliated with Magic Leap, Radiohead, Thom Yorke, or any of the other names mentioned. We're just fans with a computer!
