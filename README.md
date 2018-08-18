@@ -79,4 +79,6 @@ If there are any issues with the setup instructions, please also let me know! I 
 
 ## License
 
+This project under GNU GPLv3 (see LICENSE). Other projects referenced are under their own licenses.
+
 By Bill Derouin ([@BillDerouin](https://twitter.com/BillDerouin)) and Greg Feingold ([@GregFeingold](https://twitter.com/GregFeingold)).
