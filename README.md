@@ -1,8 +1,8 @@
 # House of Cards point cloud viewer
 
-![](thom.png "Thom")
+![](https://raw.githubusercontent.com/derouinw/house-of-cards/master/thom.PNG "Thom")
 
-![](thominar.png "Thom in the Magic Leap")
+![](https://raw.githubusercontent.com/derouinw/house-of-cards/master/thominar.PNG "Thom in the Magic Leap")
 
 Display of Radiohead's [House of Cards music video](https://www.youtube.com/watch?v=8nTFjVm9sTQ) point cloud data. Look at Thom Yorke's face in AR!
 
